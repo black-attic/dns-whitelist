@@ -2,3 +2,4 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 osb-apps.samsungqbe.com
 0.0.0.0 osb-eusvc.samsungqbe.com
+0.0.0.0 et.tidal.com
