@@ -5,7 +5,7 @@
 0.0.0.0 osb-apps.samsungqbe.com
 0.0.0.0 osb-eusvc.samsungqbe.com
 #
-# Unblocking few domains to use TIDAL on TV
+# Unblocking few domains while trying to fix TIDAL on TV
 #
 0.0.0.0 et.tidal.com
 0.0.0.0 usage.trackjs.com
