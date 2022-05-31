@@ -1,0 +1,4 @@
+# Unblocking few domains to fix Samsung APP problems
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 osb-apps.samsungqbe.com
+0.0.0.0 osb-eusvc.samsungqbe.com
