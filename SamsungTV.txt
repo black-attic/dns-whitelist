@@ -3,3 +3,4 @@
 0.0.0.0 osb-apps.samsungqbe.com
 0.0.0.0 osb-eusvc.samsungqbe.com
 0.0.0.0 et.tidal.com
+0.0.0.0 ichnaea.netflix.com
