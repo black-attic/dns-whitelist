@@ -5,6 +5,7 @@
 0.0.0.0 osb-apps.samsungqbe.com
 0.0.0.0 osb-eusvc.samsungqbe.com
 0.0.0.0 et.tidal.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 capture.trackjs.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 tvx.adgrx.com
