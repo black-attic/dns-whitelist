@@ -15,3 +15,6 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 ichnaea.netflix.com
+0.0.0.0 otnprd9.samsungcloudsolution.net
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 configprd.samsungcloudsolution.net
