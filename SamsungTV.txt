@@ -4,6 +4,10 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 osb-apps.samsungqbe.com
 0.0.0.0 osb-eusvc.samsungqbe.com
+0.0.0.0 otnprd9.samsungcloudsolution.net
+0.0.0.0 otnprd10.samsungcloudsolution.net
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 configprd.samsungcloudsolution.net
 #
 # Unblocking few domains while trying to fix TIDAL on TV
 #
@@ -15,6 +19,3 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 ichnaea.netflix.com
-0.0.0.0 otnprd9.samsungcloudsolution.net
-0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 configprd.samsungcloudsolution.net
