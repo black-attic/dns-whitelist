@@ -12,10 +12,3 @@
 # Unblocking few domains while trying to fix TIDAL on TV
 #
 0.0.0.0 et.tidal.com
-0.0.0.0 usage.trackjs.com
-0.0.0.0 capture.trackjs.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 tvx.adgrx.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 ichnaea.netflix.com
